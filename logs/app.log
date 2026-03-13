@@ -3183,3 +3183,351 @@ Processing complete!
 2026-03-10 17:01:49,969 - __main__ - INFO - Results exported to: results_complete.csv
 2026-03-10 17:01:49,970 - src.database_handler - INFO - Database connection closed
 2026-03-10 17:01:49,970 - __main__ - INFO - === MS Blood Test Tracker Finished ===
+2026-03-13 16:36:57,678 - __main__ - INFO - === MS Blood Test Tracker Started ===
+2026-03-13 16:36:57,681 - src.database_handler - INFO - Connected to database: C:\smakrykoDev\GitHub_dls\MS-Blood-Tests-Tracker\data\ms_blood_tests.db
+2026-03-13 16:36:57,683 - src.database_handler - INFO - Database initialized successfully
+2026-03-13 16:36:57,689 - src.pdf_reader - INFO - Using PDF library: pdfplumber
+2026-03-13 16:36:57,691 - __main__ - INFO - Found 26 PDF file(s) to process
+2026-03-13 16:36:57,770 - __main__ - INFO - Processing: bloodResults_23092025.pdf (pages: 7)
+2026-03-13 16:36:58,658 - __main__ - INFO - Table extraction found 1 table(s) across 7 page(s) for bloodResults_23092025.pdf
+2026-03-13 16:36:58,693 - __main__ - INFO - Extracted 17 results from tables
+2026-03-13 16:36:58,746 - __main__ - INFO - Extracted 56 additional results from text
+2026-03-13 16:36:58,755 - src.database_handler - INFO - Inserted test results for test_id: 53
+2026-03-13 16:36:58,756 - __main__ - INFO - Processed: bloodResults_23092025.pdf (73 total results extracted; pages parsed: 7)
+2026-03-13 16:36:58,933 - __main__ - INFO - Processing: blood_01042024.PDF (pages: 9)
+2026-03-13 16:37:00,219 - __main__ - INFO - Table extraction found 1 table(s) across 9 page(s) for blood_01042024.PDF
+2026-03-13 16:37:00,237 - __main__ - INFO - Extracted 17 results from tables
+2026-03-13 16:37:00,282 - __main__ - INFO - Extracted 69 additional results from text
+2026-03-13 16:37:00,291 - src.database_handler - INFO - Inserted test results for test_id: 54
+2026-03-13 16:37:00,291 - __main__ - INFO - Processed: blood_01042024.PDF (86 total results extracted; pages parsed: 9)
+2026-03-13 16:37:00,358 - __main__ - INFO - Processing: blood_04122023.PDF (pages: 6)
+2026-03-13 16:37:01,264 - __main__ - INFO - Table extraction found 2 table(s) across 6 page(s) for blood_04122023.PDF
+2026-03-13 16:37:01,282 - __main__ - INFO - Extracted 17 results from tables
+2026-03-13 16:37:01,317 - __main__ - INFO - Extracted 46 additional results from text
+2026-03-13 16:37:01,324 - src.database_handler - INFO - Inserted test results for test_id: 55
+2026-03-13 16:37:01,325 - __main__ - INFO - Processed: blood_04122023.PDF (63 total results extracted; pages parsed: 6)
+2026-03-13 16:37:01,406 - __main__ - INFO - Processing: blood_05102023.PDF (pages: 5)
+2026-03-13 16:37:02,310 - __main__ - INFO - Table extraction found 1 table(s) across 5 page(s) for blood_05102023.PDF
+2026-03-13 16:37:02,325 - __main__ - INFO - Extracted 17 results from tables
+2026-03-13 16:37:02,343 - __main__ - INFO - Extracted 44 additional results from text
+2026-03-13 16:37:02,356 - src.database_handler - INFO - Inserted test results for test_id: 56
+2026-03-13 16:37:02,357 - __main__ - INFO - Processed: blood_05102023.PDF (61 total results extracted; pages parsed: 5)
+2026-03-13 16:37:02,428 - __main__ - INFO - Processing: blood_10072025.PDF (pages: 5)
+2026-03-13 16:37:03,297 - __main__ - INFO - Table extraction found 2 table(s) across 5 page(s) for blood_10072025.PDF
+2026-03-13 16:37:03,317 - __main__ - INFO - Extracted 17 results from tables
+2026-03-13 16:37:03,353 - __main__ - INFO - Extracted 46 additional results from text
+2026-03-13 16:37:03,366 - src.database_handler - INFO - Inserted test results for test_id: 57
+2026-03-13 16:37:03,366 - __main__ - INFO - Processed: blood_10072025.PDF (63 total results extracted; pages parsed: 5)
+2026-03-13 16:37:03,439 - __main__ - INFO - Processing: blood_11042023.PDF (pages: 8)
+2026-03-13 16:37:04,638 - __main__ - INFO - Table extraction found 2 table(s) across 8 page(s) for blood_11042023.PDF
+2026-03-13 16:37:04,670 - __main__ - INFO - Extracted 17 results from tables
+2026-03-13 16:37:04,735 - __main__ - INFO - Extracted 61 additional results from text
+2026-03-13 16:37:04,742 - src.database_handler - INFO - Inserted test results for test_id: 58
+2026-03-13 16:37:04,742 - __main__ - INFO - Processed: blood_11042023.PDF (78 total results extracted; pages parsed: 8)
+2026-03-13 16:37:04,825 - __main__ - INFO - Processing: blood_18092023.PDF (pages: 6)
+2026-03-13 16:37:05,802 - __main__ - INFO - Table extraction found 2 table(s) across 6 page(s) for blood_18092023.PDF
+2026-03-13 16:37:05,820 - __main__ - INFO - Extracted 17 results from tables
+2026-03-13 16:37:05,860 - __main__ - INFO - Extracted 50 additional results from text
+2026-03-13 16:37:05,874 - src.database_handler - INFO - Inserted test results for test_id: 59
+2026-03-13 16:37:05,875 - __main__ - INFO - Processed: blood_18092023.PDF (67 total results extracted; pages parsed: 6)
+2026-03-13 16:37:05,948 - __main__ - INFO - Processing: blood_18092024.PDF (pages: 7)
+2026-03-13 16:37:06,949 - __main__ - INFO - Table extraction found 1 table(s) across 7 page(s) for blood_18092024.PDF
+2026-03-13 16:37:06,965 - __main__ - INFO - Extracted 17 results from tables
+2026-03-13 16:37:07,047 - __main__ - INFO - Extracted 54 additional results from text
+2026-03-13 16:37:07,109 - src.database_handler - INFO - Inserted test results for test_id: 60
+2026-03-13 16:37:07,111 - __main__ - INFO - Processed: blood_18092024.PDF (71 total results extracted; pages parsed: 7)
+2026-03-13 16:37:07,190 - __main__ - INFO - Processing: blood_23122024.PDF (pages: 5)
+2026-03-13 16:37:08,140 - __main__ - INFO - Table extraction found 2 table(s) across 5 page(s) for blood_23122024.PDF
+2026-03-13 16:37:08,162 - __main__ - INFO - Extracted 17 results from tables
+2026-03-13 16:37:08,206 - __main__ - INFO - Extracted 44 additional results from text
+2026-03-13 16:37:08,214 - src.database_handler - INFO - Inserted test results for test_id: 61
+2026-03-13 16:37:08,215 - __main__ - INFO - Processed: blood_23122024.PDF (61 total results extracted; pages parsed: 5)
+2026-03-13 16:37:08,283 - __main__ - INFO - Processing: blood_24072023.PDF (pages: 4)
+2026-03-13 16:37:09,116 - __main__ - INFO - Table extraction found 2 table(s) across 4 page(s) for blood_24072023.PDF
+2026-03-13 16:37:09,134 - __main__ - INFO - Extracted 17 results from tables
+2026-03-13 16:37:09,168 - __main__ - INFO - Extracted 42 additional results from text
+2026-03-13 16:37:09,183 - src.database_handler - INFO - Inserted test results for test_id: 62
+2026-03-13 16:37:09,184 - __main__ - INFO - Processed: blood_24072023.PDF (59 total results extracted; pages parsed: 4)
+2026-03-13 16:37:09,255 - __main__ - INFO - Processing: blood_25062024.PDF (pages: 5)
+2026-03-13 16:37:10,254 - __main__ - INFO - Table extraction found 2 table(s) across 5 page(s) for blood_25062024.PDF
+2026-03-13 16:37:10,272 - __main__ - INFO - Extracted 17 results from tables
+2026-03-13 16:37:10,307 - __main__ - INFO - Extracted 44 additional results from text
+2026-03-13 16:37:10,321 - src.database_handler - INFO - Inserted test results for test_id: 63
+2026-03-13 16:37:10,322 - __main__ - INFO - Processed: blood_25062024.PDF (61 total results extracted; pages parsed: 5)
+2026-03-13 16:37:10,388 - __main__ - INFO - Processing: blood_28042025.PDF (pages: 6)
+2026-03-13 16:37:11,366 - __main__ - INFO - Table extraction found 2 table(s) across 6 page(s) for blood_28042025.PDF
+2026-03-13 16:37:11,384 - __main__ - INFO - Extracted 17 results from tables
+2026-03-13 16:37:11,433 - __main__ - INFO - Extracted 55 additional results from text
+2026-03-13 16:37:11,447 - src.database_handler - INFO - Inserted test results for test_id: 64
+2026-03-13 16:37:11,447 - __main__ - INFO - Processed: blood_28042025.PDF (72 total results extracted; pages parsed: 6)
+2026-03-13 16:37:11,517 - __main__ - INFO - Processing: blood_30012023.PDF (pages: 4)
+2026-03-13 16:37:12,454 - __main__ - INFO - Table extraction found 2 table(s) across 4 page(s) for blood_30012023.PDF
+2026-03-13 16:37:12,472 - __main__ - INFO - Extracted 17 results from tables
+2026-03-13 16:37:12,504 - __main__ - INFO - Extracted 44 additional results from text
+2026-03-13 16:37:12,512 - src.database_handler - INFO - Inserted test results for test_id: 65
+2026-03-13 16:37:12,512 - __main__ - INFO - Processed: blood_30012023.PDF (61 total results extracted; pages parsed: 4)
+2026-03-13 16:37:12,593 - __main__ - INFO - Processing: bloodResults_23092025.pdf (pages: 7)
+2026-03-13 16:37:13,521 - __main__ - INFO - Table extraction found 1 table(s) across 7 page(s) for bloodResults_23092025.pdf
+2026-03-13 16:37:13,536 - __main__ - INFO - Extracted 17 results from tables
+2026-03-13 16:37:13,579 - __main__ - INFO - Extracted 56 additional results from text
+2026-03-13 16:37:13,588 - src.database_handler - INFO - Inserted test results for test_id: 66
+2026-03-13 16:37:13,588 - __main__ - INFO - Processed: bloodResults_23092025.pdf (73 total results extracted; pages parsed: 7)
+2026-03-13 16:37:13,652 - __main__ - INFO - Processing: blood_01042024.PDF (pages: 9)
+2026-03-13 16:37:14,826 - __main__ - INFO - Table extraction found 1 table(s) across 9 page(s) for blood_01042024.PDF
+2026-03-13 16:37:14,842 - __main__ - INFO - Extracted 17 results from tables
+2026-03-13 16:37:14,885 - __main__ - INFO - Extracted 69 additional results from text
+2026-03-13 16:37:14,893 - src.database_handler - INFO - Inserted test results for test_id: 67
+2026-03-13 16:37:14,895 - __main__ - INFO - Processed: blood_01042024.PDF (86 total results extracted; pages parsed: 9)
+2026-03-13 16:37:14,962 - __main__ - INFO - Processing: blood_04122023.PDF (pages: 6)
+2026-03-13 16:37:15,870 - __main__ - INFO - Table extraction found 2 table(s) across 6 page(s) for blood_04122023.PDF
+2026-03-13 16:37:15,889 - __main__ - INFO - Extracted 17 results from tables
+2026-03-13 16:37:15,932 - __main__ - INFO - Extracted 46 additional results from text
+2026-03-13 16:37:15,945 - src.database_handler - INFO - Inserted test results for test_id: 68
+2026-03-13 16:37:15,946 - __main__ - INFO - Processed: blood_04122023.PDF (63 total results extracted; pages parsed: 6)
+2026-03-13 16:37:16,008 - __main__ - INFO - Processing: blood_05102023.PDF (pages: 5)
+2026-03-13 16:37:16,919 - __main__ - INFO - Table extraction found 1 table(s) across 5 page(s) for blood_05102023.PDF
+2026-03-13 16:37:16,934 - __main__ - INFO - Extracted 17 results from tables
+2026-03-13 16:37:16,955 - __main__ - INFO - Extracted 44 additional results from text
+2026-03-13 16:37:16,965 - src.database_handler - INFO - Inserted test results for test_id: 69
+2026-03-13 16:37:16,966 - __main__ - INFO - Processed: blood_05102023.PDF (61 total results extracted; pages parsed: 5)
+2026-03-13 16:37:17,034 - __main__ - INFO - Processing: blood_10072025.PDF (pages: 5)
+2026-03-13 16:37:17,934 - __main__ - INFO - Table extraction found 2 table(s) across 5 page(s) for blood_10072025.PDF
+2026-03-13 16:37:17,953 - __main__ - INFO - Extracted 17 results from tables
+2026-03-13 16:37:17,990 - __main__ - INFO - Extracted 46 additional results from text
+2026-03-13 16:37:18,001 - src.database_handler - INFO - Inserted test results for test_id: 70
+2026-03-13 16:37:18,002 - __main__ - INFO - Processed: blood_10072025.PDF (63 total results extracted; pages parsed: 5)
+2026-03-13 16:37:18,084 - __main__ - INFO - Processing: blood_11042023.PDF (pages: 8)
+2026-03-13 16:37:19,276 - __main__ - INFO - Table extraction found 2 table(s) across 8 page(s) for blood_11042023.PDF
+2026-03-13 16:37:19,293 - __main__ - INFO - Extracted 17 results from tables
+2026-03-13 16:37:19,345 - __main__ - INFO - Extracted 61 additional results from text
+2026-03-13 16:37:19,357 - src.database_handler - INFO - Inserted test results for test_id: 71
+2026-03-13 16:37:19,357 - __main__ - INFO - Processed: blood_11042023.PDF (78 total results extracted; pages parsed: 8)
+2026-03-13 16:37:19,416 - __main__ - INFO - Processing: blood_18092023.PDF (pages: 6)
+2026-03-13 16:37:20,378 - __main__ - INFO - Table extraction found 2 table(s) across 6 page(s) for blood_18092023.PDF
+2026-03-13 16:37:20,397 - __main__ - INFO - Extracted 17 results from tables
+2026-03-13 16:37:20,436 - __main__ - INFO - Extracted 50 additional results from text
+2026-03-13 16:37:20,448 - src.database_handler - INFO - Inserted test results for test_id: 72
+2026-03-13 16:37:20,449 - __main__ - INFO - Processed: blood_18092023.PDF (67 total results extracted; pages parsed: 6)
+2026-03-13 16:37:20,529 - __main__ - INFO - Processing: blood_18092024.PDF (pages: 7)
+2026-03-13 16:37:21,524 - __main__ - INFO - Table extraction found 1 table(s) across 7 page(s) for blood_18092024.PDF
+2026-03-13 16:37:21,538 - __main__ - INFO - Extracted 17 results from tables
+2026-03-13 16:37:21,584 - __main__ - INFO - Extracted 54 additional results from text
+2026-03-13 16:37:21,597 - src.database_handler - INFO - Inserted test results for test_id: 73
+2026-03-13 16:37:21,598 - __main__ - INFO - Processed: blood_18092024.PDF (71 total results extracted; pages parsed: 7)
+2026-03-13 16:37:21,655 - __main__ - INFO - Processing: blood_23122024.PDF (pages: 5)
+2026-03-13 16:37:22,559 - __main__ - INFO - Table extraction found 2 table(s) across 5 page(s) for blood_23122024.PDF
+2026-03-13 16:37:22,579 - __main__ - INFO - Extracted 17 results from tables
+2026-03-13 16:37:22,625 - __main__ - INFO - Extracted 44 additional results from text
+2026-03-13 16:37:22,639 - src.database_handler - INFO - Inserted test results for test_id: 74
+2026-03-13 16:37:22,640 - __main__ - INFO - Processed: blood_23122024.PDF (61 total results extracted; pages parsed: 5)
+2026-03-13 16:37:22,714 - __main__ - INFO - Processing: blood_24072023.PDF (pages: 4)
+2026-03-13 16:37:23,564 - __main__ - INFO - Table extraction found 2 table(s) across 4 page(s) for blood_24072023.PDF
+2026-03-13 16:37:23,587 - __main__ - INFO - Extracted 17 results from tables
+2026-03-13 16:37:23,626 - __main__ - INFO - Extracted 42 additional results from text
+2026-03-13 16:37:23,637 - src.database_handler - INFO - Inserted test results for test_id: 75
+2026-03-13 16:37:23,637 - __main__ - INFO - Processed: blood_24072023.PDF (59 total results extracted; pages parsed: 4)
+2026-03-13 16:37:23,699 - __main__ - INFO - Processing: blood_25062024.PDF (pages: 5)
+2026-03-13 16:37:24,716 - __main__ - INFO - Table extraction found 2 table(s) across 5 page(s) for blood_25062024.PDF
+2026-03-13 16:37:24,735 - __main__ - INFO - Extracted 17 results from tables
+2026-03-13 16:37:24,773 - __main__ - INFO - Extracted 44 additional results from text
+2026-03-13 16:37:24,786 - src.database_handler - INFO - Inserted test results for test_id: 76
+2026-03-13 16:37:24,786 - __main__ - INFO - Processed: blood_25062024.PDF (61 total results extracted; pages parsed: 5)
+2026-03-13 16:37:24,850 - __main__ - INFO - Processing: blood_28042025.PDF (pages: 6)
+2026-03-13 16:37:25,844 - __main__ - INFO - Table extraction found 2 table(s) across 6 page(s) for blood_28042025.PDF
+2026-03-13 16:37:25,866 - __main__ - INFO - Extracted 17 results from tables
+2026-03-13 16:37:25,920 - __main__ - INFO - Extracted 55 additional results from text
+2026-03-13 16:37:25,927 - src.database_handler - INFO - Inserted test results for test_id: 77
+2026-03-13 16:37:25,927 - __main__ - INFO - Processed: blood_28042025.PDF (72 total results extracted; pages parsed: 6)
+2026-03-13 16:37:25,986 - __main__ - INFO - Processing: blood_30012023.PDF (pages: 4)
+2026-03-13 16:37:26,961 - __main__ - INFO - Table extraction found 2 table(s) across 4 page(s) for blood_30012023.PDF
+2026-03-13 16:37:26,980 - __main__ - INFO - Extracted 17 results from tables
+2026-03-13 16:37:27,013 - __main__ - INFO - Extracted 44 additional results from text
+2026-03-13 16:37:27,028 - src.database_handler - INFO - Inserted test results for test_id: 78
+2026-03-13 16:37:27,029 - __main__ - INFO - Processed: blood_30012023.PDF (61 total results extracted; pages parsed: 4)
+2026-03-13 16:37:27,030 - __main__ - INFO - 
+Processing complete!
+2026-03-13 16:37:27,030 - __main__ - INFO - Total tests processed: 26
+2026-03-13 16:37:27,030 - __main__ - INFO - Total results stored: 1752
+2026-03-13 16:37:27,031 - src.database_handler - INFO - Database connection closed
+2026-03-13 16:37:27,031 - __main__ - INFO - === MS Blood Test Tracker Finished ===
+2026-03-13 16:37:27,378 - __main__ - INFO - === MS Blood Test Tracker Started ===
+2026-03-13 16:37:27,380 - src.database_handler - INFO - Connected to database: C:\smakrykoDev\GitHub_dls\MS-Blood-Tests-Tracker\data\ms_blood_tests.db
+2026-03-13 16:37:27,381 - src.database_handler - INFO - Database initialized successfully
+2026-03-13 16:37:27,436 - src.database_handler - INFO - Exported 655 deduplicated results to results_complete.csv
+2026-03-13 16:37:27,438 - __main__ - INFO - Results exported to: results_complete.csv
+2026-03-13 16:37:27,439 - src.database_handler - INFO - Database connection closed
+2026-03-13 16:37:27,439 - __main__ - INFO - === MS Blood Test Tracker Finished ===
+2026-03-13 16:38:21,162 - __main__ - INFO - === MS Blood Test Tracker Started ===
+2026-03-13 16:38:21,164 - src.database_handler - INFO - Connected to database: C:\smakrykoDev\GitHub_dls\MS-Blood-Tests-Tracker\data\ms_blood_tests.db
+2026-03-13 16:38:21,165 - src.database_handler - INFO - Database initialized successfully
+2026-03-13 16:38:21,172 - src.pdf_reader - INFO - Using PDF library: pdfplumber
+2026-03-13 16:38:21,173 - __main__ - INFO - Found 26 PDF file(s) to process
+2026-03-13 16:38:21,222 - __main__ - INFO - Processing: bloodResults_23092025.pdf (pages: 7)
+2026-03-13 16:38:22,135 - __main__ - INFO - Table extraction found 1 table(s) across 7 page(s) for bloodResults_23092025.pdf
+2026-03-13 16:38:22,159 - __main__ - INFO - Extracted 17 results from tables
+2026-03-13 16:38:22,201 - __main__ - INFO - Extracted 56 additional results from text
+2026-03-13 16:38:22,208 - src.database_handler - INFO - Inserted test results for test_id: 79
+2026-03-13 16:38:22,209 - __main__ - INFO - Processed: bloodResults_23092025.pdf (73 total results extracted; pages parsed: 7)
+2026-03-13 16:38:22,269 - __main__ - INFO - Processing: blood_01042024.PDF (pages: 9)
+2026-03-13 16:38:23,395 - __main__ - INFO - Table extraction found 1 table(s) across 9 page(s) for blood_01042024.PDF
+2026-03-13 16:38:23,410 - __main__ - INFO - Extracted 17 results from tables
+2026-03-13 16:38:23,448 - __main__ - INFO - Extracted 69 additional results from text
+2026-03-13 16:38:23,458 - src.database_handler - INFO - Inserted test results for test_id: 80
+2026-03-13 16:38:23,458 - __main__ - INFO - Processed: blood_01042024.PDF (86 total results extracted; pages parsed: 9)
+2026-03-13 16:38:23,511 - __main__ - INFO - Processing: blood_04122023.PDF (pages: 6)
+2026-03-13 16:38:24,367 - __main__ - INFO - Table extraction found 2 table(s) across 6 page(s) for blood_04122023.PDF
+2026-03-13 16:38:24,385 - __main__ - INFO - Extracted 17 results from tables
+2026-03-13 16:38:24,417 - __main__ - INFO - Extracted 46 additional results from text
+2026-03-13 16:38:24,425 - src.database_handler - INFO - Inserted test results for test_id: 81
+2026-03-13 16:38:24,431 - __main__ - INFO - Processed: blood_04122023.PDF (63 total results extracted; pages parsed: 6)
+2026-03-13 16:38:24,502 - __main__ - INFO - Processing: blood_05102023.PDF (pages: 5)
+2026-03-13 16:38:25,349 - __main__ - INFO - Table extraction found 1 table(s) across 5 page(s) for blood_05102023.PDF
+2026-03-13 16:38:25,363 - __main__ - INFO - Extracted 17 results from tables
+2026-03-13 16:38:25,388 - __main__ - INFO - Extracted 44 additional results from text
+2026-03-13 16:38:25,399 - src.database_handler - INFO - Inserted test results for test_id: 82
+2026-03-13 16:38:25,399 - __main__ - INFO - Processed: blood_05102023.PDF (61 total results extracted; pages parsed: 5)
+2026-03-13 16:38:25,455 - __main__ - INFO - Processing: blood_10072025.PDF (pages: 5)
+2026-03-13 16:38:26,302 - __main__ - INFO - Table extraction found 2 table(s) across 5 page(s) for blood_10072025.PDF
+2026-03-13 16:38:26,318 - __main__ - INFO - Extracted 17 results from tables
+2026-03-13 16:38:26,347 - __main__ - INFO - Extracted 46 additional results from text
+2026-03-13 16:38:26,356 - src.database_handler - INFO - Inserted test results for test_id: 83
+2026-03-13 16:38:26,357 - __main__ - INFO - Processed: blood_10072025.PDF (63 total results extracted; pages parsed: 5)
+2026-03-13 16:38:26,416 - __main__ - INFO - Processing: blood_11042023.PDF (pages: 8)
+2026-03-13 16:38:27,537 - __main__ - INFO - Table extraction found 2 table(s) across 8 page(s) for blood_11042023.PDF
+2026-03-13 16:38:27,554 - __main__ - INFO - Extracted 17 results from tables
+2026-03-13 16:38:27,600 - __main__ - INFO - Extracted 61 additional results from text
+2026-03-13 16:38:27,613 - src.database_handler - INFO - Inserted test results for test_id: 84
+2026-03-13 16:38:27,613 - __main__ - INFO - Processed: blood_11042023.PDF (78 total results extracted; pages parsed: 8)
+2026-03-13 16:38:27,678 - __main__ - INFO - Processing: blood_18092023.PDF (pages: 6)
+2026-03-13 16:38:28,578 - __main__ - INFO - Table extraction found 2 table(s) across 6 page(s) for blood_18092023.PDF
+2026-03-13 16:38:28,596 - __main__ - INFO - Extracted 17 results from tables
+2026-03-13 16:38:28,644 - __main__ - INFO - Extracted 50 additional results from text
+2026-03-13 16:38:28,654 - src.database_handler - INFO - Inserted test results for test_id: 85
+2026-03-13 16:38:28,654 - __main__ - INFO - Processed: blood_18092023.PDF (67 total results extracted; pages parsed: 6)
+2026-03-13 16:38:28,708 - __main__ - INFO - Processing: blood_18092024.PDF (pages: 7)
+2026-03-13 16:38:29,662 - __main__ - INFO - Table extraction found 1 table(s) across 7 page(s) for blood_18092024.PDF
+2026-03-13 16:38:29,677 - __main__ - INFO - Extracted 17 results from tables
+2026-03-13 16:38:29,712 - __main__ - INFO - Extracted 54 additional results from text
+2026-03-13 16:38:29,724 - src.database_handler - INFO - Inserted test results for test_id: 86
+2026-03-13 16:38:29,724 - __main__ - INFO - Processed: blood_18092024.PDF (71 total results extracted; pages parsed: 7)
+2026-03-13 16:38:29,778 - __main__ - INFO - Processing: blood_23122024.PDF (pages: 5)
+2026-03-13 16:38:30,633 - __main__ - INFO - Table extraction found 2 table(s) across 5 page(s) for blood_23122024.PDF
+2026-03-13 16:38:30,650 - __main__ - INFO - Extracted 17 results from tables
+2026-03-13 16:38:30,681 - __main__ - INFO - Extracted 44 additional results from text
+2026-03-13 16:38:30,694 - src.database_handler - INFO - Inserted test results for test_id: 87
+2026-03-13 16:38:30,694 - __main__ - INFO - Processed: blood_23122024.PDF (61 total results extracted; pages parsed: 5)
+2026-03-13 16:38:30,746 - __main__ - INFO - Processing: blood_24072023.PDF (pages: 4)
+2026-03-13 16:38:31,546 - __main__ - INFO - Table extraction found 2 table(s) across 4 page(s) for blood_24072023.PDF
+2026-03-13 16:38:31,565 - __main__ - INFO - Extracted 17 results from tables
+2026-03-13 16:38:31,595 - __main__ - INFO - Extracted 42 additional results from text
+2026-03-13 16:38:31,603 - src.database_handler - INFO - Inserted test results for test_id: 88
+2026-03-13 16:38:31,603 - __main__ - INFO - Processed: blood_24072023.PDF (59 total results extracted; pages parsed: 4)
+2026-03-13 16:38:31,661 - __main__ - INFO - Processing: blood_25062024.PDF (pages: 5)
+2026-03-13 16:38:32,616 - __main__ - INFO - Table extraction found 2 table(s) across 5 page(s) for blood_25062024.PDF
+2026-03-13 16:38:32,634 - __main__ - INFO - Extracted 17 results from tables
+2026-03-13 16:38:32,665 - __main__ - INFO - Extracted 44 additional results from text
+2026-03-13 16:38:32,672 - src.database_handler - INFO - Inserted test results for test_id: 89
+2026-03-13 16:38:32,676 - __main__ - INFO - Processed: blood_25062024.PDF (61 total results extracted; pages parsed: 5)
+2026-03-13 16:38:32,750 - __main__ - INFO - Processing: blood_28042025.PDF (pages: 6)
+2026-03-13 16:38:33,721 - __main__ - INFO - Table extraction found 2 table(s) across 6 page(s) for blood_28042025.PDF
+2026-03-13 16:38:33,741 - __main__ - INFO - Extracted 17 results from tables
+2026-03-13 16:38:33,785 - __main__ - INFO - Extracted 55 additional results from text
+2026-03-13 16:38:33,795 - src.database_handler - INFO - Inserted test results for test_id: 90
+2026-03-13 16:38:33,796 - __main__ - INFO - Processed: blood_28042025.PDF (72 total results extracted; pages parsed: 6)
+2026-03-13 16:38:33,845 - __main__ - INFO - Processing: blood_30012023.PDF (pages: 4)
+2026-03-13 16:38:34,747 - __main__ - INFO - Table extraction found 2 table(s) across 4 page(s) for blood_30012023.PDF
+2026-03-13 16:38:34,764 - __main__ - INFO - Extracted 17 results from tables
+2026-03-13 16:38:34,794 - __main__ - INFO - Extracted 44 additional results from text
+2026-03-13 16:38:34,807 - src.database_handler - INFO - Inserted test results for test_id: 91
+2026-03-13 16:38:34,808 - __main__ - INFO - Processed: blood_30012023.PDF (61 total results extracted; pages parsed: 4)
+2026-03-13 16:38:34,888 - __main__ - INFO - Processing: bloodResults_23092025.pdf (pages: 7)
+2026-03-13 16:38:35,795 - __main__ - INFO - Table extraction found 1 table(s) across 7 page(s) for bloodResults_23092025.pdf
+2026-03-13 16:38:35,809 - __main__ - INFO - Extracted 17 results from tables
+2026-03-13 16:38:35,840 - __main__ - INFO - Extracted 56 additional results from text
+2026-03-13 16:38:35,852 - src.database_handler - INFO - Inserted test results for test_id: 92
+2026-03-13 16:38:35,853 - __main__ - INFO - Processed: bloodResults_23092025.pdf (73 total results extracted; pages parsed: 7)
+2026-03-13 16:38:35,929 - __main__ - INFO - Processing: blood_01042024.PDF (pages: 9)
+2026-03-13 16:38:37,090 - __main__ - INFO - Table extraction found 1 table(s) across 9 page(s) for blood_01042024.PDF
+2026-03-13 16:38:37,105 - __main__ - INFO - Extracted 17 results from tables
+2026-03-13 16:38:37,144 - __main__ - INFO - Extracted 69 additional results from text
+2026-03-13 16:38:37,158 - src.database_handler - INFO - Inserted test results for test_id: 93
+2026-03-13 16:38:37,160 - __main__ - INFO - Processed: blood_01042024.PDF (86 total results extracted; pages parsed: 9)
+2026-03-13 16:38:37,214 - __main__ - INFO - Processing: blood_04122023.PDF (pages: 6)
+2026-03-13 16:38:38,114 - __main__ - INFO - Table extraction found 2 table(s) across 6 page(s) for blood_04122023.PDF
+2026-03-13 16:38:38,132 - __main__ - INFO - Extracted 17 results from tables
+2026-03-13 16:38:38,172 - __main__ - INFO - Extracted 46 additional results from text
+2026-03-13 16:38:38,185 - src.database_handler - INFO - Inserted test results for test_id: 94
+2026-03-13 16:38:38,185 - __main__ - INFO - Processed: blood_04122023.PDF (63 total results extracted; pages parsed: 6)
+2026-03-13 16:38:38,253 - __main__ - INFO - Processing: blood_05102023.PDF (pages: 5)
+2026-03-13 16:38:39,157 - __main__ - INFO - Table extraction found 1 table(s) across 5 page(s) for blood_05102023.PDF
+2026-03-13 16:38:39,173 - __main__ - INFO - Extracted 17 results from tables
+2026-03-13 16:38:39,194 - __main__ - INFO - Extracted 44 additional results from text
+2026-03-13 16:38:39,207 - src.database_handler - INFO - Inserted test results for test_id: 95
+2026-03-13 16:38:39,207 - __main__ - INFO - Processed: blood_05102023.PDF (61 total results extracted; pages parsed: 5)
+2026-03-13 16:38:39,267 - __main__ - INFO - Processing: blood_10072025.PDF (pages: 5)
+2026-03-13 16:38:40,138 - __main__ - INFO - Table extraction found 2 table(s) across 5 page(s) for blood_10072025.PDF
+2026-03-13 16:38:40,157 - __main__ - INFO - Extracted 17 results from tables
+2026-03-13 16:38:40,247 - __main__ - INFO - Extracted 46 additional results from text
+2026-03-13 16:38:40,256 - src.database_handler - INFO - Inserted test results for test_id: 96
+2026-03-13 16:38:40,259 - __main__ - INFO - Processed: blood_10072025.PDF (63 total results extracted; pages parsed: 5)
+2026-03-13 16:38:40,324 - __main__ - INFO - Processing: blood_11042023.PDF (pages: 8)
+2026-03-13 16:38:41,478 - __main__ - INFO - Table extraction found 2 table(s) across 8 page(s) for blood_11042023.PDF
+2026-03-13 16:38:41,495 - __main__ - INFO - Extracted 17 results from tables
+2026-03-13 16:38:41,551 - __main__ - INFO - Extracted 61 additional results from text
+2026-03-13 16:38:41,561 - src.database_handler - INFO - Inserted test results for test_id: 97
+2026-03-13 16:38:41,561 - __main__ - INFO - Processed: blood_11042023.PDF (78 total results extracted; pages parsed: 8)
+2026-03-13 16:38:41,609 - __main__ - INFO - Processing: blood_18092023.PDF (pages: 6)
+2026-03-13 16:38:42,564 - __main__ - INFO - Table extraction found 2 table(s) across 6 page(s) for blood_18092023.PDF
+2026-03-13 16:38:42,586 - __main__ - INFO - Extracted 17 results from tables
+2026-03-13 16:38:42,628 - __main__ - INFO - Extracted 50 additional results from text
+2026-03-13 16:38:42,635 - src.database_handler - INFO - Inserted test results for test_id: 98
+2026-03-13 16:38:42,635 - __main__ - INFO - Processed: blood_18092023.PDF (67 total results extracted; pages parsed: 6)
+2026-03-13 16:38:42,697 - __main__ - INFO - Processing: blood_18092024.PDF (pages: 7)
+2026-03-13 16:38:43,677 - __main__ - INFO - Table extraction found 1 table(s) across 7 page(s) for blood_18092024.PDF
+2026-03-13 16:38:43,692 - __main__ - INFO - Extracted 17 results from tables
+2026-03-13 16:38:43,727 - __main__ - INFO - Extracted 54 additional results from text
+2026-03-13 16:38:43,740 - src.database_handler - INFO - Inserted test results for test_id: 99
+2026-03-13 16:38:43,741 - __main__ - INFO - Processed: blood_18092024.PDF (71 total results extracted; pages parsed: 7)
+2026-03-13 16:38:43,803 - __main__ - INFO - Processing: blood_23122024.PDF (pages: 5)
+2026-03-13 16:38:44,682 - __main__ - INFO - Table extraction found 2 table(s) across 5 page(s) for blood_23122024.PDF
+2026-03-13 16:38:44,699 - __main__ - INFO - Extracted 17 results from tables
+2026-03-13 16:38:44,726 - __main__ - INFO - Extracted 44 additional results from text
+2026-03-13 16:38:44,736 - src.database_handler - INFO - Inserted test results for test_id: 100
+2026-03-13 16:38:44,737 - __main__ - INFO - Processed: blood_23122024.PDF (61 total results extracted; pages parsed: 5)
+2026-03-13 16:38:44,809 - __main__ - INFO - Processing: blood_24072023.PDF (pages: 4)
+2026-03-13 16:38:45,677 - __main__ - INFO - Table extraction found 2 table(s) across 4 page(s) for blood_24072023.PDF
+2026-03-13 16:38:45,695 - __main__ - INFO - Extracted 17 results from tables
+2026-03-13 16:38:45,726 - __main__ - INFO - Extracted 42 additional results from text
+2026-03-13 16:38:45,740 - src.database_handler - INFO - Inserted test results for test_id: 101
+2026-03-13 16:38:45,740 - __main__ - INFO - Processed: blood_24072023.PDF (59 total results extracted; pages parsed: 4)
+2026-03-13 16:38:45,805 - __main__ - INFO - Processing: blood_25062024.PDF (pages: 5)
+2026-03-13 16:38:46,771 - __main__ - INFO - Table extraction found 2 table(s) across 5 page(s) for blood_25062024.PDF
+2026-03-13 16:38:46,788 - __main__ - INFO - Extracted 17 results from tables
+2026-03-13 16:38:46,824 - __main__ - INFO - Extracted 44 additional results from text
+2026-03-13 16:38:46,836 - src.database_handler - INFO - Inserted test results for test_id: 102
+2026-03-13 16:38:46,837 - __main__ - INFO - Processed: blood_25062024.PDF (61 total results extracted; pages parsed: 5)
+2026-03-13 16:38:46,901 - __main__ - INFO - Processing: blood_28042025.PDF (pages: 6)
+2026-03-13 16:38:47,879 - __main__ - INFO - Table extraction found 2 table(s) across 6 page(s) for blood_28042025.PDF
+2026-03-13 16:38:47,896 - __main__ - INFO - Extracted 17 results from tables
+2026-03-13 16:38:47,934 - __main__ - INFO - Extracted 55 additional results from text
+2026-03-13 16:38:47,948 - src.database_handler - INFO - Inserted test results for test_id: 103
+2026-03-13 16:38:47,950 - __main__ - INFO - Processed: blood_28042025.PDF (72 total results extracted; pages parsed: 6)
+2026-03-13 16:38:48,021 - __main__ - INFO - Processing: blood_30012023.PDF (pages: 4)
+2026-03-13 16:38:48,958 - __main__ - INFO - Table extraction found 2 table(s) across 4 page(s) for blood_30012023.PDF
+2026-03-13 16:38:48,975 - __main__ - INFO - Extracted 17 results from tables
+2026-03-13 16:38:49,006 - __main__ - INFO - Extracted 44 additional results from text
+2026-03-13 16:38:49,012 - src.database_handler - INFO - Inserted test results for test_id: 104
+2026-03-13 16:38:49,012 - __main__ - INFO - Processed: blood_30012023.PDF (61 total results extracted; pages parsed: 4)
+2026-03-13 16:38:49,013 - __main__ - INFO - 
+Processing complete!
+2026-03-13 16:38:49,013 - __main__ - INFO - Total tests processed: 26
+2026-03-13 16:38:49,013 - __main__ - INFO - Total results stored: 1752
+2026-03-13 16:38:49,014 - src.database_handler - INFO - Database connection closed
+2026-03-13 16:38:49,014 - __main__ - INFO - === MS Blood Test Tracker Finished ===
+2026-03-13 16:38:49,348 - __main__ - INFO - === MS Blood Test Tracker Started ===
+2026-03-13 16:38:49,350 - src.database_handler - INFO - Connected to database: C:\smakrykoDev\GitHub_dls\MS-Blood-Tests-Tracker\data\ms_blood_tests.db
+2026-03-13 16:38:49,351 - src.database_handler - INFO - Database initialized successfully
+2026-03-13 16:38:49,417 - src.database_handler - INFO - Exported 655 deduplicated results to results_complete.csv
+2026-03-13 16:38:49,419 - __main__ - INFO - Results exported to: results_complete.csv
+2026-03-13 16:38:49,420 - src.database_handler - INFO - Database connection closed
+2026-03-13 16:38:49,420 - __main__ - INFO - === MS Blood Test Tracker Finished ===
