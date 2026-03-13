@@ -1,0 +1,17 @@
+# PDF Processing
+pdfplumber>=0.10.0
+PyPDF2>=3.0.0
+
+# Database
+# sqlite3 is included in Python standard library
+
+# Data Processing
+pandas>=2.0.0
+
+# Configuration
+PyYAML>=6.0
+
+# Logging (included in standard library)
+# Testing
+pytest>=7.4.0
+pytest-cov>=4.1.0

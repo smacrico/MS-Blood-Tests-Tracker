@@ -1,0 +1,54 @@
+{
+  "row_text_length": 1760,
+  "parsed_count": 6,
+  "results": [
+    {
+      "test_name": "RBC",
+      "result_value": "5.67",
+      "unit": "M/μl",
+      "reference_range": "4.50-6.10",
+      "flag": "Normal",
+      "category": "CBC"
+    },
+    {
+      "test_name": "HGB",
+      "result_value": "12.8",
+      "unit": "gr/dL",
+      "reference_range": "12.0-16.0",
+      "flag": "Normal",
+      "category": "CBC"
+    },
+    {
+      "test_name": "HCT",
+      "result_value": "39.3",
+      "unit": "%",
+      "reference_range": "42.0-52.0",
+      "flag": "Low",
+      "category": "CBC"
+    },
+    {
+      "test_name": "MCV",
+      "result_value": "69.3",
+      "unit": "fl",
+      "reference_range": "81.0-99.0",
+      "flag": "Low",
+      "category": "CBC"
+    },
+    {
+      "test_name": "MCH",
+      "result_value": "22.6",
+      "unit": "pg",
+      "reference_range": "27.0-32.0",
+      "flag": "Low",
+      "category": "CBC"
+    },
+    {
+      "test_name": "MCHC",
+      "result_value": "32.6",
+      "unit": "gr/dL",
+      "reference_range": "32.0-36.0",
+      "flag": "Normal",
+      "category": "CBC"
+    }
+  ]
+}
