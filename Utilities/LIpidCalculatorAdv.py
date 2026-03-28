@@ -42,6 +42,6 @@ def lipid_profile_calculator(total_cholesterol, hdl, triglycerides):
     }
 
 # Example usage
-result = lipid_profile_calculator(total_cholesterol=200, hdl=50, triglycerides=150)
+result = lipid_profile_calculator(total_cholesterol=2000, hdl=50, triglycerides=150)
 for k, v in result.items():
     print(f"{k}: {v}")
